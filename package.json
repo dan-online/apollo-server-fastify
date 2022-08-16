@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@fastify/accepts": "^4.0.0",
-    "@fastify/cors": "^8.0.0",
+    "@fastify/cors": "^8.1.0",
     "apollo-server-core": "^3.10.1",
     "apollo-server-types": "^3.6.2"
   },
