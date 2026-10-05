@@ -35,7 +35,7 @@
     "apollo-server-types": "^3.6.2"
   },
   "peerDependencies": {
-    "fastify": "^4.4.0",
+    "fastify": "^4.4.0 || ^5.0.0",
     "graphql": "^15.3.0 || ^16.0.0"
   },
   "devDependencies": {
